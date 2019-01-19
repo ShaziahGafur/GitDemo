@@ -213,7 +213,7 @@ section{
 @media (min-width:768px){
     .footer{
         padding-top:10px;
-        text-align:left
+        text-align:right;
     }
 }
 .footer__list-item:last-child{
