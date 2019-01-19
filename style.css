@@ -2,7 +2,7 @@
     font-family:Vollkorn;
     font-display:fallback;
     font-style:normal;
-    font-weight:400;
+    font-weight:1000;
     src:url(/fonts/vollkorn-regular.woff2) format("woff2"),url(/fonts/vollkorn-regular.woff) format("woff")
 }
 @font-face{
