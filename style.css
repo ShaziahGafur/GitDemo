@@ -2,14 +2,14 @@
     font-family:Vollkorn;
     font-display:fallback;
     font-style:normal;
-    font-weight:400;
+    font-weight:1000;
     src:url(/fonts/vollkorn-regular.woff2) format("woff2"),url(/fonts/vollkorn-regular.woff) format("woff")
 }
 @font-face{
     font-family:Vollkorn;
     font-display:fallback;
     font-style:normal;
-    font-weight:700;
+    font-weight:100;
     src:url(/fonts/vollkorn-bold.woff2) format("woff2"),url(/fonts/vollkorn-bold.woff) format("woff")
 }
 *,:after,:before{
@@ -23,7 +23,7 @@ figcaption,figure,footer,header,hgroup,section{
     display:block
 }
 h1,h2,h3,h4,h5,h6{
-    font-size:100%
+    font-size:70%
 }
 a{
     text-decoration:none
